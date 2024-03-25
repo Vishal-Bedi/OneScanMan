@@ -74,6 +74,9 @@ options:
 
 ```python one_scan_man.py web_recon -s All -p http://localhost:8080 -u "http://192.168.203.50 test1 test2"'``` 
 
+## Contributors: khyatiparekh
+
+
 ```python one_scan_man.py info```
 
 
